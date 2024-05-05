@@ -2,6 +2,16 @@ import Project from "./Project";
 
 const projectsData = [
   {
+    title: "Hotel Dashboard",
+    img: "project-10",
+    description:
+      "A management tool for hotel staff, featuring CRUD operations, robust filtering and sorting, dynamic dashboard metrics, real-time updates, and secure user authentication.",
+    skills: "React,React-Query,Styled-Components,React-Hook-Form",
+    liveLink: "https://hotel-dashboard-nu.vercel.app",
+    githubLink: "https://github.com/mostafahamedbesher/Hotel-Dashboard",
+  },
+
+  {
     title: "ecommerce Pizza Restaurant",
     img: "project-1",
     description:
