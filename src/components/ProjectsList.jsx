@@ -66,6 +66,15 @@ const projectsData = [
     githubLink: "https://github.com/mostafahamedbesher/TravelList",
   },
   {
+    title: "Classy Weather",
+    img: "project-11",
+    description:
+      "The React Weather Forecast App provides real-time weather updates for a chosen city through an intuitive interface built with React class components.",
+    skills: "React, AJAX, Javascript, CSS, HTML",
+    liveLink: "https://classy-weather-besher.netlify.app",
+    githubLink: "https://github.com/mostafahamedbesher/Classy-Weather",
+  },
+  {
     title: "Bankist",
     img: "project-4",
     description:
