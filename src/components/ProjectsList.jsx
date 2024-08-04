@@ -2,6 +2,17 @@ import Project from "./Project";
 
 const projectsData = [
   {
+    title: "Hotel Reservation Website",
+    img: "project-12",
+    description:
+      "Hotel reservations website built with Next.js and React, featuring Google account registration, cabin filtering, booking, and comprehensive reservation management with full CRUD operations.",
+    skills: "Nextjs,React,NextAuth",
+    liveLink: "https://hotel-reservations-website.vercel.app",
+    githubLink:
+      "https://github.com/mostafahamedbesher/Hotel-Reservations-website",
+  },
+
+  {
     title: "Hotel Dashboard",
     img: "project-10",
     description:
