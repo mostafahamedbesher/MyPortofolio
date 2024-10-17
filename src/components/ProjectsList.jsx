@@ -2,6 +2,16 @@ import Project from "./Project";
 
 const projectsData = [
   {
+    title: "Ecommerce Men Clothes Store",
+    img: "project-13",
+    description:
+      "E-commerce men's clothing store built with Next.js and Supabase, featuring NextAuth authentication, Stripe payments, form validation with Zod, filters, pagination, product variations, and a wishlist.",
+    skills: "Nextjs,React,NextAuth,Stripe",
+    liveLink: "https://fasco-ecommerce-clothes-store.vercel.app",
+    githubLink:
+      "https://github.com/mostafahamedbesher/Fasco-ecommerce-clothes-store",
+  },
+  {
     title: "Hotel Reservation Website",
     img: "project-12",
     description:
@@ -23,7 +33,7 @@ const projectsData = [
   },
 
   {
-    title: "ecommerce Pizza Restaurant",
+    title: "Ecommerce Pizza Restaurant",
     img: "project-1",
     description:
       "This project is a fully responsive ecommerce pizza restaurant app, beautifully styled with Tailwind CSS. It provides a user-friendly interface for browsing restaurant products.",

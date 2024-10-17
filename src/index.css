@@ -286,7 +286,8 @@ nav {
 .project-title {
   font-size: 2.2rem;
   font-weight: 400;
-  margin-bottom: 2rem;
+  margin-bottom: 1.4rem;
+  /* margin-bottom: 2rem; */
   margin-top: 1rem;
 }
 
