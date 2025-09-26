@@ -22,7 +22,7 @@ const projectsData = [
       "https://github.com/mostafahamedbesher/Fasco-ecommerce-clothes-store",
   },
   {
-    title: "Hotel Reservation Website",
+    title: "Hotel Booking Website",
     img: "project-12",
     description:
       "Hotel reservations website built with Next.js and React, featuring Google account registration, cabin filtering, booking, and comprehensive reservation management with full CRUD operations.",
@@ -33,7 +33,7 @@ const projectsData = [
   },
 
   {
-    title: "Hotel Dashboard",
+    title: "Booking Dashboard",
     img: "project-10",
     description:
       "A management tool for hotel staff, featuring CRUD operations, robust filtering and sorting, dynamic dashboard metrics, real-time updates, and secure user authentication.",
