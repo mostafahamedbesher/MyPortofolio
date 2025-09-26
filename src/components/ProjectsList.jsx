@@ -2,7 +2,7 @@ import Project from "./Project";
 
 const projectsData = [
   {
-    title: "Dashboard for Ecommerce Men Clothes Store",
+    title: "Ecommerce Dashboard",
     img: "project-14",
     description:
       "E-commerce dashboard built with React, TypeScript, and Supabase, featuring product and order management, real-time analytics with Recharts, responsive UI, and secure data handling.",
