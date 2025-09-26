@@ -2,6 +2,16 @@ import Project from "./Project";
 
 const projectsData = [
   {
+    title: "Dashboard for Ecommerce Men Clothes Store",
+    img: "project-14",
+    description:
+      "E-commerce dashboard built with React, TypeScript, and Supabase, featuring product and order management, real-time analytics with Recharts, responsive UI, and secure data handling.",
+    skills: "React,Typescript,React Query,Supabase,Tailwind",
+    liveLink: "https://dashboard-for-ecommerce-clothes-sto.vercel.app",
+    githubLink:
+      "https://github.com/mostafahamedbesher/Dashboard-for-Ecommerce-Clothes-Store",
+  },
+  {
     title: "Ecommerce Men Clothes Store",
     img: "project-13",
     description:
