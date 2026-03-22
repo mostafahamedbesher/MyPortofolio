@@ -7,7 +7,7 @@ const projectsData = [
     description:
       "E-commerce dashboard built with React, TypeScript, and Supabase, featuring product and order management, real-time analytics with Recharts, responsive UI, and secure data handling.",
     skills: "React,Typescript,React Query,Supabase,Tailwind",
-    liveLink: "https://dashboard-for-ecommerce-clothes-sto.vercel.app",
+    liveLink: "https://dashboard-for-ecommerce-clothes-store-v2.vercel.app",
     githubLink:
       "https://github.com/mostafahamedbesher/Dashboard-for-Ecommerce-Clothes-Store",
   },
@@ -17,28 +17,28 @@ const projectsData = [
     description:
       "E-commerce men's clothing store built with Next.js and Supabase, featuring NextAuth authentication, Stripe payments, form validation with Zod, filters, pagination, product variations, and a wishlist.",
     skills: "Nextjs,React,NextAuth,Stripe",
-    liveLink: "https://fasco-ecommerce-clothes-store.vercel.app",
+    liveLink: "https://fasco-ecommerce-clothes-store-v2.vercel.app",
     githubLink:
       "https://github.com/mostafahamedbesher/Fasco-ecommerce-clothes-store",
   },
   {
-    title: "Hotel Booking Website",
+    title: "Hotel Bookings Website",
     img: "project-12",
     description:
       "Hotel reservations website built with Next.js and React, featuring Google account registration, cabin filtering, booking, and comprehensive reservation management with full CRUD operations.",
     skills: "Nextjs,React,NextAuth",
-    liveLink: "https://hotel-reservations-website.vercel.app",
+    liveLink: "https://hotel-reservations-website-v2.vercel.app",
     githubLink:
       "https://github.com/mostafahamedbesher/Hotel-Reservations-website",
   },
 
   {
-    title: "Booking Dashboard",
+    title: "Hotel Bookings Dashboard",
     img: "project-10",
     description:
       "A management tool for hotel staff, featuring CRUD operations, robust filtering and sorting, dynamic dashboard metrics, real-time updates, and secure user authentication.",
     skills: "React,React-Query,Styled-Components,React-Hook-Form",
-    liveLink: "https://hotel-dashboard-nu.vercel.app",
+    liveLink: "https://hotel-dashboard-besher.netlify.app",
     githubLink: "https://github.com/mostafahamedbesher/Hotel-Dashboard",
   },
 
@@ -52,7 +52,7 @@ const projectsData = [
     githubLink: "https://github.com/mostafahamedbesher/ecommerce-Fast-Pizza",
   },
   {
-    title: "Forkify",
+    title: "Recipes Website",
     img: "project-7",
     description:
       "A recipe application crafted using the Model-View-Controller(MVC) architecture to make it more structured. you can effortlessly search for any recipe imaginable and access recpie details",
@@ -61,7 +61,7 @@ const projectsData = [
     githubLink: "https://github.com/mostafahamedbesher/forkify",
   },
   {
-    title: "Interactive World Map Tracker",
+    title: "World Map Tracker",
     img: "project-2",
     description:
       "A world map that tracks your footsteps into every city you can think of. Never forget your wonderful experiences, and show your friends how you have wandered the world.",
